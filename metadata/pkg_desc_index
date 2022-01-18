@@ -1,0 +1,7 @@
+dev-lang/execline 2.8.2.0: A non-interactive scripting language
+dev-libs/skalibs 2.11.1.0: General-purpose libraries from skarnet.org
+sys-apps/s6 2.11.0.1: skarnet.org's small and secure supervision software suite
+sys-apps/s6-linux-init 1.0.7.0: Generates an init binary for s6-based init systems
+sys-apps/s6-linux-utils 2.5.1.7: Set of tiny linux utilities
+sys-apps/s6-portable-utils 2.2.3.4: Set of tiny portable unix utilities
+sys-apps/s6-rc 0.5.3.0: Service manager for the s6 supervision suite
